@@ -1,0 +1,18 @@
+# ide/editor project things
+.idea/
+
+# vendor directories
+node_modules/
+
+# temporary things
+tmp/
+
+# built files
+*.zip
+
+# dumb files
+.DS_Store
+
+# config files
+.zat
+.env
